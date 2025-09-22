@@ -60,7 +60,7 @@
 
 Пример контекстной диаграммы задачи 1 приведен на рисунке.
 
-![img1.png](misc/images/img3.png)
+![img1.png](img1.png)
 
 ### Exercise 02 — Solving the problems of stakeholders (Разрешение проблем стейкхолдеров) <div id="53"></div>
 **Для каждой задачи:**
